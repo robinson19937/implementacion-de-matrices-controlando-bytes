@@ -6,4 +6,8 @@ Una de las grandes ventajas de trabajar con pantallas OLED como la 128x64 es la 
 
 El código de ejemplo utiliza una matriz para manipular 10 imágenes en formato de bits, que se muestran secuencialmente en la pantalla, simulando así una animación. Es un enfoque sencillo pero poderoso, ideal para representar información dinámica de manera eficiente y visualmente atractiva, lo que lo convierte en una solución destacada dentro del desarrollo de interfaces para sistemas embebidos.
 
+Aqui una breve representacion de lo que se podria llegar a hacer , una oled con dibujos realizados a partir de el manejo de bytes por medio de matrices :
+
+https://www.youtube.com/watch?v=81QCZIqgDmE
+
 Robinson lopez
