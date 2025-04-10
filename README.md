@@ -10,4 +10,4 @@ Aqui una breve representacion de lo que se podria llegar a hacer , una oled con 
 
 https://www.youtube.com/watch?v=81QCZIqgDmE
 
-Robinson lopez
+Robinson lopez lopez
