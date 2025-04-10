@@ -68,10 +68,11 @@ const unsigned char* bitmaps[5][2] = {
   {bitmap3, bitmap4},
   {bitmap5, bitmap6},
   {bitmap7, bitmap8},
-  {bitmap9, bitmap10},
+  {bitmap9, bitmap10}
 };
 
 void setup() {
+  
   Serial.begin(9600);
   delay(250);
   display.begin(i2c_Address, true);
